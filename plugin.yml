@@ -1,0 +1,3 @@
+name: Run Docker
+description: Skips git checkout before running command
+author: Web Platform Infrastructure
